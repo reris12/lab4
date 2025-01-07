@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(203, 202, 202);
+}
+.image-container{
+    width: 100px;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+#imagess{
+    width: 200px;
+}
